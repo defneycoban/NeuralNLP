@@ -41,25 +41,6 @@ The model is trained using the Penn Treebank dataset annotated with Universal De
 - **Training**: Trains the model to minimize cross-entropy loss.
 - **Evaluation**: Measures parsing accuracy using the Unlabeled Attachment Score (UAS).
 
-## Usage
-1. **Clone the Repository**:
-    ```sh
-    git clone <repository-url>
-    cd neural-dependency-parser
-    ```
-2. **Install Dependencies**:
-    ```sh
-    pip install -r requirements.txt
-    ```
-3. **Train the Model**:
-    ```sh
-    python run.py
-    ```
-4. **Evaluate the Model**:
-    ```sh
-    python run.py --evaluate
-    ```
-
 ## Results
 The neural dependency parser achieves high accuracy on the parsing task, demonstrating the effectiveness of neural networks for dependency parsing. The model's performance can be further improved by fine-tuning hyperparameters such as hidden layer size, learning rate, and number of epochs.
 
