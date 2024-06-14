@@ -1,7 +1,7 @@
 # Neural NLP Projects
 
 ## Overview
-This repository contains two neural network-based Natural Language Processing (NLP) projects: an Attention-Based Neural Machine Translation (NMT) model for translating English to Pig Latin, and a Neural Dependency Parser. Both projects leverage advanced neural network architectures and techniques to perform complex NLP tasks.
+This repository contains two neural network-based nlp projects: an Attention-Based Neural Machine Translation (NMT) model for translating English to Pig Latin, and a Neural Dependency Parser. Both projects leverage advanced neural network architectures and techniques to perform complex NLP tasks.
 
 ## Projects
 
