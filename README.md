@@ -24,4 +24,4 @@ This repository contains two neural network-based nlp projects: an Attention-Bas
 - Neural network classifier for transition prediction
 - Minibatch parsing for efficient transition prediction
 - Training and evaluation using UAS
-- Implementation of scaled dot-product attention for parsing tasks
+- Implementation of scaled dot-product attention for parsing tasks.
